@@ -33,9 +33,8 @@ and following Components are used..
 
 4 When  user click on any product name, User Should Navigate  to productdetails page  and  to view the details of project .
 
-5  When  user click on any Users , User Should Navigate  to Users page   and  to view the  user list wich filter by gender male and female.
+5 When  user click on any Users , User Should Navigate  to Users page   and  to view the  user list wich filter by gender male and female.
 
-
-6 If the  User clicks on the Logout  and then user  Should Navigate to the login page.
+[6]- If the  User clicks on the Logout  and then user  Should Navigate to the login page.
 
 ## Thank You !!!
