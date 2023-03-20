@@ -34,6 +34,7 @@ const [productlist, setProductlist] = useState([])
     }
     
   return (
+    <div className='productcontainer'>
     <div className='product'>
         <div className="product-sidebar">
             {
@@ -62,6 +63,7 @@ const [productlist, setProductlist] = useState([])
 
         
         </div>
+    </div>
     </div>
   )
 }
