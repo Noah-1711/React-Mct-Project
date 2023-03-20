@@ -17,13 +17,13 @@ and following Components are used..
 
 # App contains following Components
 
-Home Component
-Product Component
-User Component
-Contact Component
-Login Component
-ProductDetails Component
-Navbar Component
+:Home Component
+:Product Component
+:User Component
+:Contact Component
+:Login Component
+:ProductDetails Component
+:Navbar Component
 
 - Whenever Application Starts, It Shows the Login page and  after  click on login button with Valid Credential  in the follwing inputs  will take us in home component
 
