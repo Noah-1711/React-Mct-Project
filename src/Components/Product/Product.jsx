@@ -28,7 +28,7 @@ const [productlist, setProductlist] = useState([])
         const res= await fetch(`https://fakestoreapi.com/products/category/${categories}`)
         // console.log(res)
         const data= await res.json()
-        console.log(data)
+        // console.log(data)
         setProductlist(data)
 
     }
@@ -54,7 +54,7 @@ const [productlist, setProductlist] = useState([])
         <div className='product_maincontainer'>
             <ul>
             {productlist.map((ele)=>{
-                console.log(ele)
+                // console.log(ele)
 
                 return <Link to={`/productdetails/${ele.id}`}><li>{ele && ele.title}</li></Link>
                 
