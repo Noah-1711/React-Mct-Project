@@ -68,7 +68,7 @@ export const Login = (props) => {
                 <input  checked={props.checkinput}type="checkbox"  onChange={(e)=>{
                     props.setCheckinput(e.target.checked)
                 }}/>
-                <label>Remenber me</label>
+                <label>Remember me</label>
                 </div>
                
                 <p>forget password?</p>

@@ -9,16 +9,6 @@ const userdetails = async() => {
     console.log(data)
     return usersData.push(...data.results)
 
-	// fetch("https://randomuser.me/api/?results=20")
-	// 	.then((e) => e.json())
-	// 	.then((res) => usersData.push(...res.results));
-
-        
-	// fetch("https://fakestoreapi.com/products")
-    // .then((e) => e.json())
-    // .then((res) => productsData.push(...res));
-
-	// console.log("usersData", productsData);
 };
 userdetails();
 
@@ -30,9 +20,6 @@ const productdata = async()=>{
     console.log(data)
     return productsData.push(...data)
 
-   
-   
-
 }
 productdata();
 
@@ -42,7 +29,7 @@ const initialState = {
 };
 
 const reducers = (state = initialState, action) => {
- if (action.type === "USER_DATA"){
+ if (action.type === "USERS"){
     return state
  }
  else{
