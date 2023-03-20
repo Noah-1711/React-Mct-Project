@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom'
 import './Product.css'
 
 export const Product = () => {
- const{ category} =useParams()
+//  const{ category} =useParams()
 const [productcategory, setProductcategory] = useState([])
 // const [catdetailes, setCatdetailes] = useState([])
 const [categories, setCategories] = useState("electronics")
