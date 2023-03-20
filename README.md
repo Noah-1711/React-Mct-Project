@@ -25,16 +25,16 @@ and following Components are used..
 - ProductDetails Component
 - Navbar Component
 
-[1]- Whenever Application Starts, It Shows the Login page and  after  click on login button with Valid Credential  in the follwing inputs  will take us in home component
+- [1] Whenever Application Starts, It Shows the Login page and  after  click on login button with Valid Credential  in the follwing inputs  will take us in home component
 
-[2]-  In this App, different  Api are fetch in components
+- [2]  In this App, different  Api are fetch in components
 
-[3]- If User click on Product  in Navbar,Then User Should Navigate to the Products page. there are categroies and products 
+- [3] If User click on Product  in Navbar,Then User Should Navigate to the Products page. there are categroies and products 
 
-[4]- When  user click on any product name, User Should Navigate  to productdetails page  and  to view the details of project .
+- [4] When  user click on any product name, User Should Navigate  to productdetails page  and  to view the details of project .
 
-[5]- When  user click on any Users , User Should Navigate  to Users page   and  to view the  user list wich filter by gender male and female.
+- [5] When  user click on any Users , User Should Navigate  to Users page   and  to view the  user list wich filter by gender male and female.
 
-[6]- If the  User clicks on the Logout  and then user  Should Navigate to the login page.
+- [6] If the  User clicks on the Logout  and then user  Should Navigate to the login page.
 
 ## Thank You !!!
