@@ -8,11 +8,11 @@
 
 **Email : Noah**
 **Password : 1234**
-*** Note : Please checked the remember be ***
+**Note : Please checked the remember be**
 
 ## Summary
 
-- Implemented a React App With the Filtering Feature and  Routing, Redux for the State Management.and used ProtectedRoute for login.
+- Implemented a React App With the Filtering Feature and  Routing,and used Redux for the State Management.and used ProtectedRoute for login.
 and following Components are used..
 
 # App contains following Components
