@@ -6,9 +6,9 @@
 
 ## Credential
 
-**Email : Noah**
-**Password : 1234**
-**Note : Please checked the remember be**
+**Email : "Noah"**
+**Password : "1234"**
+**Note : "Please check the Remember be"**
 
 ## Summary
 
